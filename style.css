@@ -11,3 +11,12 @@ body {
     height: auto;
 }
 
+.botao{ 
+background-color: blanchedalmond;
+font-size: 20px;
+text-align: right; 
+text-decoration: none;
+border-radius: 50px;
+
+}
+
